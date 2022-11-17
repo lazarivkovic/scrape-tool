@@ -1,0 +1,30 @@
+[
+	{
+		"id":"indeed.com",
+		"keyword":"/jobs?q=",
+		"page_keyword":"&start=",
+		"page_numbers":[0,10,20,30,40,50],
+		"list_jobs":"a.jcs-JobTitle",
+		"salary":"//*[@id=\"jobDetailsSection\"]/div[2]/span",
+		"name":"d//*[@id=\"viewJobSSRRoot\"]/div[2]/div/div[3]/div/div/div[1]/div[1]/div[2]/div[1]/div[1]/h1",
+		"company":"//*[@id=\"viewJobSSRRoot\"]/div[2]/div/div[3]/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/div/div/div/div[1]/div[2]/div/a",
+		"location":"//*[@id=\"viewJobSSRRoot\"]/div[2]/div/div[3]/div/div/div[1]/div[1]/div[2]/div[1]/div[2]/div/div/div/div[2]/div",
+		"type":"//*[@id=\"jobDetailsSection\"]/div[3]/div[2]"
+	},
+	{
+		"id":"monster.com",
+		"keyword":"/jobs/search?q=",
+		"page_keyword":"&page=",
+		"page_numbers":[1,2,3,4,5],
+		"list_jobs":"a.job-cardstyle__JobCardComponent-sc-1mbmxes-0",
+		"salary":"//*[@id=\"details-table\"]/div[2]/span/span",
+		"name":"//*[@id=\"BigJobCardId\"]/div[2]/div/div[1]/div[2]/h1",
+		"company":"//*[@id=\"BigJobCardId\"]/div[2]/div/div[1]/div[2]/a/h2",
+		"location":"//*[@id=\"details-table\"]/div[6]/div[2]/div",
+		"type":"//*[@id=\"details-table\"]/div[4]/div[2]"
+	}
+]
+
+
+
+
